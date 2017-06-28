@@ -5,3 +5,8 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
+
+*.gz 
+*.p
+*.zip
+*.pickle
